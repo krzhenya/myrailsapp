@@ -1,5 +1,7 @@
 # README
 
+Hi there! I'm Eugene and this is my new app! Check it out!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
