@@ -2,6 +2,34 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+nav .navbar-toggle-collapsed {
+  float: right;
+}
+
+nav .dropdown {
+  padding-right: 10px;
+  padding-bottom: 20px;
+  color: white;
+}
+
+nav .navbar-left a {
+  float: left;
+  padding-top: 15px;
+  padding-left: 20px;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.container-fluid ul {
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+.container-fluid {
+  height: 30px;
+}
+
 h1, h2 {
 	font-family: 'Quicksand', sans-serif;
 	color: #FFFFFF;
@@ -26,6 +54,7 @@ body {
 	background-size: 100% auto;
 	height: 80%;
 	overflow-x: hidden;
+	padding-top: 40px;
 }
 
 p {
